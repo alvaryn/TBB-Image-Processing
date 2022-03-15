@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/TBB_Demo_Reduction.dir/main.cpp.o  -o TBB_Demo_Reduction -ltbb -lfreeimageplus 
