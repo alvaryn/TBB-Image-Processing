@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alvaryn/CLionProjects/tutorial_15_parallel_for/main.cpp
+tbb/task_scheduler_init.h
+-
+tbb/parallel_for.h
+-
+tbb/blocked_range.h
+-
+tbb/blocked_range2d.h
+-
+cstdlib
+-
+math.h
+-
+random
+-
+chrono
+-
+cstdint
+-
+iostream
+-
+functional
+-
+vector
+-
+string
+-
+FreeImagePlus.h
+-
+thread
+-
+

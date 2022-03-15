@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/tutorial_15_parallel_for.dir/main.cpp.o  -o tutorial_15_parallel_for -ltbb -lfreeimageplus 
