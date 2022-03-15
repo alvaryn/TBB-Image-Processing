@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/TBB_Demo_Cancellation.dir/main.cpp.o  -o TBB_Demo_Cancellation -ltbb -lfreeimageplus 
