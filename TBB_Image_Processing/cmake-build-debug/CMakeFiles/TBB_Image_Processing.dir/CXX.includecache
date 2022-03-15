@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alvaryn/CLionProjects/TBB_Image_Processing/main.cpp
+iostream
+-
+tbb/task_scheduler_init.h
+-
+tbb/blocked_range2d.h
+-
+tbb/parallel_for.h
+-
+tbb/tick_count.h
+-
+FreeImagePlus.h
+-
+thread
+-
+

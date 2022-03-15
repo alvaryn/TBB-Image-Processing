@@ -1,0 +1,3 @@
+/home/alvaryn/CLionProjects/TBB_Image_Processing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/alvaryn/CLionProjects/TBB_Image_Processing/cmake-build-debug/CMakeFiles/TBB_Image_Processing.dir
+/home/alvaryn/CLionProjects/TBB_Image_Processing/cmake-build-debug/CMakeFiles/edit_cache.dir

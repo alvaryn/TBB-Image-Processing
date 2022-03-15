@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/TBB_Image_Processing.dir/main.cpp.o  -o TBB_Image_Processing -ltbb -lpthread -lfreeimageplus 
